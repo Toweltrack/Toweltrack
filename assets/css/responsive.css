@@ -13,7 +13,9 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-	
+	.modal-dialog {
+		display: block;
+	}
 }
 
 /* Extra Small Devices, Phones */ 
