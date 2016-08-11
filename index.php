@@ -31,7 +31,7 @@
 	<h3>The future of resort towel management.</h3>
 	
 	<div class="get-info">
-		<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Get Info</a>
+		<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
 	</div><!-- end .get-info -->
 	
 	<div class="towel-image">
