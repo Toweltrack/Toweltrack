@@ -38,7 +38,7 @@ $(function() {
 			$(formMessages).hide().text(response).fadeIn(600);
 	    
 		}).fail(function(data) {
-			
+						
 	    // Make sure that the formMessages div has the 'error' class.
 	    $(formMessages).addClass('alert');
 	    $(formMessages).removeClass('alert-success');

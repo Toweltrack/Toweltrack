@@ -1,5 +1,12 @@
 <?php
 	
+	require 'vendor/autoload.php';
+	use Mailgun\Mailgun;
+	
+	$mailgun = new Mailgun("key-a86fa34a3e3b25da325aac3352d282de");
+	$domain = "toweltrack.com";
+	
+	
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	
 		// Vars
@@ -17,7 +24,6 @@
 	    exit;
     }
 		
-		
 		// Set the recipient email address.
     // $recipient = "corp@toweltrack.com";
     $recipient = "nickme@gher.com";
@@ -34,16 +40,15 @@
     // Build the email headers.
     $email_headers = "From: $name <$email>";
 		
-		// Send the email.
-	  if (mail($recipient, $subject, $email_content, $email_headers)) {
-	    // Set a 200 (okay) response code.
-	    http_response_code(200);
+		
+		// Send email with MailGun
+		if ( $mailgun->sendMessage($domain, array('from' => $email, 'to' => $recipient, 'subject' => $subject, 'text'    => $email_content)) ) {
+			http_response_code(200);
 	    echo "Thank You! Your message has been sent.";
-	  } else {
-	    // Set a 500 (internal server error) response code.
-	    http_response_code(500);
+		} else {
+			http_response_code(500);
 	    echo "Oops! Something went wrong and we couldn't send your message.";
-	  }
+		}
 
 	
 	} else {
