@@ -34,15 +34,15 @@
     // Build the email content.
     $email_content = "Name: $name\n";
     $email_content = "Phone: $phone\n";
-    $email_content .= "Email: $email\n";
-    $email_content .= "Resort Name:\n$resort_name\n";
+    $email_content .= "Email: $email\n\n";
+    $email_content .= "Resort Name: $resort_name\n";
 
     // Build the email headers.
     $email_headers = "From: $name <$email>";
 		
 		
 		// Send email with MailGun
-		$mailgun->sendMessage($domain, array('from' => $email, 'to' => $recipient, 'subject' => $subject, 'text'    => $email_content));
+		$mailgun->sendMessage($domain, array('from' => $email, 'to' => $recipient, 'subject' => $subject, 'text' => $email_content));
 		echo "Thank You! Your message has been sent.";
 	
 	} else {
