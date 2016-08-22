@@ -10,8 +10,8 @@
 	<meta property="og:url" content="http://www.toweltrack.com/"/>
 	<meta property="og:description" content="TowelTrack - The future of resort towel management."/>
 	<meta property="og:site_name" content="TowelTrack"/>
-	<meta name="description" content="TowelTrack - The future of resort towel management."/>
-	<title>TowelTrack | The Future of Resort Towel Management</title>
+	<meta name="description" content="TowelTrack - The future of hotal, resort and fitness towel management."/>
+	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
 	
 	<!-- Bootstrap -->
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -25,17 +25,20 @@
 </head>
 <body>
 
+<div class="logo-center">
+<img src="assets/images/smallphone.png" />
+</div>
 
 <div class="container text-center">
+   
 	<h1>Toweltrack.</h1>
-	<h3>The future of resort towel management.</h3>
-	
+	<h3>The future of hotel, resort and fitness towel management.</h3>
 	<div class="get-info">
 		<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
 	</div><!-- end .get-info -->
 	
 	<div class="towel-image">
-		<img src="assets/images/towel-bg.jpg" class="img-responsive" alt="Toweltrack." />
+		<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
 	</div><!-- end .towel-image -->
 	
 </div><!-- end .container -->
