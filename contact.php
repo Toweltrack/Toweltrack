@@ -25,7 +25,7 @@
     }
 		
 		// Set the recipient email address.
-    $recipient = "corp@toweltrack.com";
+    $recipient = "corp@gher.com";
 
     // Set the email subject.
     $subject = "TowelTrack - Get Info Submission";
