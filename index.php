@@ -24,23 +24,27 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 </head>
 <body>
-
-<div class="logo-center">
-<img src="assets/images/smallphone.png" />
-</div>
-
+	
 <div class="container text-center">
+	<div class="row">
+		<div class="col-md-12">
+			
+			<div class="logo-center">
+				<img src="assets/images/smallphone.png" />
+			</div>
    
-	<h1>Toweltrack.</h1>
-	<h3>The future of hotel, resort and fitness towel management.</h3>
-	<div class="get-info">
-		<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
-	</div><!-- end .get-info -->
-	
-	<div class="towel-image">
-		<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
-	</div><!-- end .towel-image -->
-	
+			<h1>Toweltrack.</h1>
+			<h3>The future of hotel, resort and fitness towel management.</h3>
+			<div class="get-info">
+				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
+			</div><!-- end .get-info -->
+			
+			<div class="towel-image">
+				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
+			</div><!-- end .towel-image -->
+			
+		</div><!-- end .col-md-12 -->
+	</div><!-- end .row -->
 </div><!-- end .container -->
 	
 <footer class="footer">
