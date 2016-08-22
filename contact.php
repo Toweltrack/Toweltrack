@@ -28,7 +28,7 @@
     $recipient = "corp@gher.com";
 
     // Set the email subject.
-    $subject = "TowelTrack - Get Info Submission";
+    $subject = "TowelTrack - Info Request";
 
     // Build the email content.
     $email_content = "Name: $name\n";
