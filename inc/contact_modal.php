@@ -13,13 +13,13 @@
 		      
 	      	<div class="form-group">
 						<label for="name">Name <span class="text-danger">*</span></label>
-						<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" maxlength="30" data-minlength="2" required>
+						<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" maxlength="100" data-minlength="2" required>
 						<div class="help-block with-errors"></div>
 					</div><!-- end .form-group -->
 					
 					<div class="form-group">
 						<label for="phone">Phone <span class="text-danger">*</span></label>
-						<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" data-minlength="3" maxlength="15" required>
+						<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" data-minlength="3" maxlength="20" required>
 						<div class="help-block with-errors"></div>
 					</div><!-- end .form-group -->
 					
@@ -31,7 +31,7 @@
 					
 					<div class="form-group">
 						<label for="phone">Resort Name <span class="text-danger">*</span></label>
-						<input type="text" class="form-control" id="resort_name" name="resort_name" placeholder="Resort Name" data-minlength="3" required>
+						<input type="text" class="form-control" id="resort_name" name="resort_name" placeholder="Resort Name" data-minlength="3" maxlength="500" required>
 						<div class="help-block with-errors"></div>
 					</div><!-- end .form-group -->
 					

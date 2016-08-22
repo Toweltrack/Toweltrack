@@ -1,8 +1,9 @@
 <?php
 	
 	require 'vendor/autoload.php';
+	use Mailgun\Mailgun;
 	
-	$mailgun = new \Mailgun\Mailgun("key-a86fa34a3e3b25da325aac3352d282de");
+	$mailgun = new Mailgun("key-a86fa34a3e3b25da325aac3352d282de");
 	$domain = "toweltrack.com";
 	
 	
