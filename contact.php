@@ -32,7 +32,7 @@
 
     // Build the email content.
     $email_content = "Name: $name\n";
-    $email_content = "Phone: $phone\n";
+    $email_content .= "Phone: $phone\n";
     $email_content .= "Email: $email\n\n";
     $email_content .= "Resort Name: $resort_name\n";
 
