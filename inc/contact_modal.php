@@ -19,7 +19,7 @@
 					
 					<div class="form-group">
 						<label for="phone">Phone <span class="text-danger">*</span></label>
-						<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" data-minlength="3" maxlength="20" required>
+						<input type="tel" class="form-control" id="phone" name="phone" placeholder="(555) 555-5555" data-minlength="3" maxlength="20" required>
 						<div class="help-block with-errors"></div>
 					</div><!-- end .form-group -->
 					
