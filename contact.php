@@ -42,7 +42,7 @@
 		
 		// Send email with MailGun
 		$mailgun->sendMessage($domain, array('from' => $email, 'to' => $recipient, 'subject' => $subject, 'text' => $email_content));
-		echo "Thank You! Your message has been sent.";
+		echo "Your message has been sent.";
 	
 	} else {
     // Not a POST request, set a 403 (forbidden) response code.

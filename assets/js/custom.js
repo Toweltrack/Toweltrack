@@ -36,6 +36,7 @@ $(function() {
 	
 			// Set the message text.
 			$(formMessages).hide().text(response).fadeIn(600);
+			$('h4.modal-title').text('Thank you!');
 	    
 		}).fail(function(data) {
 						

@@ -25,7 +25,7 @@
 					
 					<div class="form-group">
 						<label for="phone">Email <span class="text-danger">*</span></label>
-						<input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+						<input type="email" class="form-control" id="email" name="email" placeholder="Email" maxlength="500" required>
 						<div class="help-block with-errors"></div>
 					</div><!-- end .form-group -->
 					
