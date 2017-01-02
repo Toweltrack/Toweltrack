@@ -51,7 +51,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 text-center">
-				<div class="copyright">© 2016 TowelTrack. All Rights Reserved.</div>
+				<div class="copyright">© 2017 TowelTrack. All Rights Reserved.</div>
 			</div><!-- end .col-md-6 -->
 		</div><!-- end .row -->
 	</div><!-- end .container -->
