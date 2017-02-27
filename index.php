@@ -14,10 +14,10 @@
 	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
 	
 	<!-- Bootstrap -->
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 	
 	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=BioRhyme:400,800|Open+Sans" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=BioRhyme:400,800|Open+Sans" rel="stylesheet">
 	
 	<!-- Custom Styles -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -63,8 +63,8 @@
 
 
 <!-- Scripts -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="bower_components/bootstrap-validator/dist/validator.min.js"></script>
 <script src="assets/js/custom.js"></script>
 
