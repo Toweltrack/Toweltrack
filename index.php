@@ -33,8 +33,8 @@
 				<img src="assets/images/smallphone.png" />
 			</div>
    
-			<h1>Linentracker</h1>
-			<h3>The future of hotel, resort and fitness linen management.</h3>
+			<h1>toweltrack</h1>
+			<h3>The future of hotel, resort and fitness towel management.</h3>
 			<div class="get-info">
 				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
 			</div><!-- end .get-info -->
