@@ -34,7 +34,7 @@
 			</div>
    
 			<h1>Toweltrack</h1>
-			<h3>Reduce towel loss and increase sales.</h3>
+			<h3>Reduce towel loss. Improve customer experiance.</h3>
 			<div class="get-info">
 				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
 			</div><!-- end .get-info -->
