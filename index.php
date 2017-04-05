@@ -33,7 +33,7 @@
 				<img src="assets/images/smallphone.png" />
 			</div>
    
-			<h1>toweltrack</h1>
+			<h1>Toweltrack</h1>
 			<h3>Reduce towel loss and increase sales.</h3>
 			<div class="get-info">
 				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
@@ -51,7 +51,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 text-center">
-				<div class="copyright">© 2017 TowelTrack. All Rights Reserved.</div>
+				<div class="copyright">© 2017 Toweltrack. All Rights Reserved.</div>
 			</div><!-- end .col-md-6 -->
 		</div><!-- end .row -->
 	</div><!-- end .container -->
