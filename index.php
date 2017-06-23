@@ -36,7 +36,7 @@
 			<h1>Toweltrack</h1>
 			<h3>Distribute and track specific towels to specific guests and reduce towel loss.</h3>
 			<div class="get-info">
-				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
+				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Sound Interesting?</a>
 			</div><!-- end .get-info -->
 
 			<div class="towel-image">
