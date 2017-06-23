@@ -4,7 +4,7 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
+
 	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="TowelTrack - The future of resort towel management."/>
 	<meta property="og:url" content="http://www.toweltrack.com/"/>
@@ -12,41 +12,41 @@
 	<meta property="og:site_name" content="TowelTrack"/>
 	<meta name="description" content="TowelTrack - The future of hotal, resort and fitness towel management."/>
 	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
-	
+
 	<!-- Bootstrap -->
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-	
+
 	<!-- Google Fonts -->
 	<link href="//fonts.googleapis.com/css?family=BioRhyme:400,800|Open+Sans" rel="stylesheet">
-	
+
 	<!-- Custom Styles -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 </head>
 <body>
-	
+
 <div class="container text-center">
 	<div class="row">
 		<div class="col-md-12">
-			
+
 			<div class="logo-center">
 				<img src="assets/images/smallphone.png" />
 			</div>
-   
+
 			<h1>Toweltrack</h1>
-			<h3>Reduce towel loss. Improve customer experiance.</h3>
+			<h3>Distribute and track specific towels to specific guests and reduce towel loss.</h3>
 			<div class="get-info">
 				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Interested?</a>
 			</div><!-- end .get-info -->
-			
+
 			<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
 			</div><!-- end .towel-image -->
-			
+
 		</div><!-- end .col-md-12 -->
 	</div><!-- end .row -->
 </div><!-- end .container -->
-	
+
 <footer class="footer">
 	<div class="container">
 		<div class="row">
@@ -56,7 +56,7 @@
 		</div><!-- end .row -->
 	</div><!-- end .container -->
 </footer>
-	
+
 
 <!-- Modal -->
 <?php require 'inc/contact_modal.php'; ?>
