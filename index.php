@@ -35,9 +35,31 @@
 
 			<h1>Toweltrack</h1>
 			<h3>Distribute and track specific towels to specific guests and reduce towel loss.</h3>
-			<div class="get-info">
-				<a href="#" class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#getInfo">Sound Interesting?</a>
-			</div><!-- end .get-info -->
+			<!-- Section -->
+      <div class="section" id="howitworks">
+        <h2>See it in action</h2>
+        <div class="container">
+
+        <div class="row">
+          <div class="col-md-8 col-md-push-2 scrollme centered">
+            <p>All you need is one of our waterproof tablets
+              and you can start seating your guests and tracking your towels.
+              Using their mobile phones your guests can immediately
+              communicate with your staff sending service requests or even emergency alerts.</p>
+          </div><!-- end .col-md-8 -->
+        </div><!-- end .row -->
+
+        <div class="row usp-wrap scrollme">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="tablet-container">
+              <script src="https://fast.wistia.com/embed/medias/b3dcv3bh49.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_b3dcv3bh49" style="height:270px;width:435px">&nbsp;</div>
+            </div><!-- end .responsive-video -->
+          </div><!-- end .col-md-8 -->
+        </div><!-- end .row -->
+
+      </div>
+      </div><!-- end .container -->
+    </section>
 
 			<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
