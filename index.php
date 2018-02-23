@@ -46,18 +46,17 @@
 
 <!-- Section -->
 <div class="section text-center" id="howitworks">
-	<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
 	<div class="container">
-
 	<div class="row">
 		<div class="col-md-8 col-md-push-2 scrollme centered">
+			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
 			<p>Toweltrack is a simple check-in and checkout process that only requires a name,
 				room or phone number, and the number of towels distributed to the guest.
 				Guests can add or return towels before checking out and the system will keep an
 				accurate count of the number of towels distributed to the each guest as well
 				as total number of towels distributed each day. 
 			</p>
-			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>		
+			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
 			</p>
 			<p>Toweltrack Pro is the future of distributing and tracking to minimize towel loss.</p>
 			<p>With Toweltrack Pro in addition to a simple check in and checkout process, you can
