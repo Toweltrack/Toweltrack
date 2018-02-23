@@ -57,8 +57,8 @@
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
-	<div><h2>Want to see Toweltrack in action? </br>
-		Call us for more information and a video password at: 1-954-300-4445</h2></div>
+	<div><h2>Want to see Toweltrack in action?</h2> </br>
+		Call us for more information and a video password at: 1-954-300-4445</div>
 	<div>
 	<div class="row usp-wrap scrollme">
 		<div class="col-md-8 col-md-offset-2">
