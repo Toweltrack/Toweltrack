@@ -46,15 +46,25 @@
 
 <!-- Section -->
 <div class="section text-center" id="howitworks">
-	<h2>See it in action</h2>
+	<h2>See Toweltrack in action.</h2>
 	<div class="container">
 
 	<div class="row">
 		<div class="col-md-8 col-md-push-2 scrollme centered">
-			<p>All you need is one of our waterproof tablets
-				and you can start seating your guests and tracking your towels.
-				Using their mobile phones your guests can immediately
-				communicate with your staff sending service requests or even emergency alerts.</p>
+			<p>Toweltrack is a high tech replacement for any towel card or manual system.</p>
+			<p>Toweltrack is a simple check-in and checkout process that only requires a name,
+				room or phone number, and the number of towels distributed to the guest.
+				Guests can add or return towels before checking out and the system will keep an
+				accurate count of the number of towels distributed to the each guest as well
+				as total number of towels distributed each day. 
+			</p>
+			</p>
+			<p>Toweltrack Pro is the future of distributing and tracking to minimize towel loss.</p>
+			<p>With Toweltrack Pro in addition to a simple check in and checkout process, you can
+				track specific towels distributed to specific guests by adding our custom competitive
+				Toweltrack Pro RFID embedded towels. Towels are scanned as they are distributed and
+				assigned to specific guests.  
+			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
 
@@ -74,7 +84,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 text-center">
-				<div class="copyright">© 2017 Toweltrack. All Rights Reserved.</div>
+				<div class="copyright">© 2018 Toweltrack. All Rights Reserved.</div>
 			</div><!-- end .col-md-6 -->
 		</div><!-- end .row -->
 	</div><!-- end .container -->
