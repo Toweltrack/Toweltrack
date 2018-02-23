@@ -51,13 +51,14 @@
 		<div class="col-md-8 col-md-push-2 scrollme centered">
 			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
 			<p>Power up Toweltrack's waterproof tablet and your ready to go. Our simple towel check-in
-				and checkout software only requires a name,room or phone number, and the number of towels
-				being distributed to the guest. The system keeps an accurate count of the number of 
+				and checkout software only requires a name, room or phone number, and the number of towels
+				being distributed to the guest. The system keeps an accurate count of the number of
 				towels distributed to the each guest as well as total number of towels distributed each day. 
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
-
+	<div><h2>Want to see Toweltrack in action? Call us for more information and a video password at: 1-954-300-4445</h2></div>
+	<div>
 	<div class="row usp-wrap scrollme">
 		<div class="col-md-8 col-md-offset-2">
 			<div class="tablet-container">
@@ -65,8 +66,7 @@
 			</div><!-- end .responsive-video -->
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
-	<div><h2>Call us for more information and a video password at: 1-954-300-4445</h2></div>
-	<div> </div>
+ </div>
 </div>
 </div><!-- end .container -->
 </section>
