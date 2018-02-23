@@ -72,7 +72,8 @@
 			</div><!-- end .responsive-video -->
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
-	<div>Call us for more information and a video password at: 1-954-300-4445</div>
+	<div><h2>Call us for more information and a video password at: 1-954-300-4445</h2></div>
+	<div> </div>
 </div>
 </div><!-- end .container -->
 </section>
