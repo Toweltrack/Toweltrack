@@ -45,7 +45,7 @@
 </div><!-- end .container -->
 
 <!-- Section -->
-<div class="section" id="howitworks">
+<div class="section text-center" id="howitworks">
 	<h2>See it in action</h2>
 	<div class="container">
 
