@@ -56,9 +56,7 @@
 				accurate count of the number of towels distributed to the each guest as well
 				as total number of towels distributed each day. 
 			</p>
-			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
-			</p>
-			<p>Toweltrack Pro is the future of distributing and tracking to minimize towel loss.</p>
+			<h2>Toweltrack Pro is the future of distributing and tracking to minimize towel loss.</h2>
 			<p>With Toweltrack Pro in addition to a simple check in and checkout process, you can
 				track specific towels distributed to specific guests by adding our custom competitive
 				Toweltrack Pro RFID embedded towels. Towels are scanned as they are distributed and
