@@ -76,7 +76,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 text-center">
-				<div class="copyright">© 2018 Toweltrack. All Rights Reserved.</div>
+				<div class="copyright">© 2018 Toweltrack. All Rights Reserved. Patent Pending.</div>
 			</div><!-- end .col-md-6 -->
 		</div><!-- end .row -->
 	</div><!-- end .container -->
