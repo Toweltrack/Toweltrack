@@ -46,6 +46,9 @@
 
 <!-- Section -->
 <div class="section text-center" id="howitworks">
+	<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-push-2 scrollme centered">
 			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
 			<p>Toweltrack is a simple check-in and checkout process that only requires a name,
 				room or phone number, and the number of towels distributed to the guest.
