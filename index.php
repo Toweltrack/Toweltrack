@@ -34,7 +34,7 @@
 			</div>
 
 			<h1>Reduce towel loss with Toweltrack.</h1>
-			<h3>Track each towel distributed and returned by your guests.</h3>
+			<h3>Track each and every towel distributed and returned by your guests.</h3>
 
 			<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
@@ -50,8 +50,7 @@
 	<div class="row">
 		<div class="col-md-8 col-md-push-2 scrollme centered">
 			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
-			<p>Power up Toweltrack's waterproof tablet and your ready to go. The system keeps an accurate count of the number of
-				towels distributed to and returned each guest as well as total number of towels distributed and returned each day. 
+			<p>Just power up Toweltrack's waterproof tablet and your ready to go. 
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
