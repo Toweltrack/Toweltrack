@@ -6,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<meta property="og:type" content="website"/>
-	<meta property="og:title" content="TowelTrack - The future of resort towel management."/>
+	<meta property="og:title" content="Toweltrack - The future of resort towel management."/>
 	<meta property="og:url" content="http://www.toweltrack.com/"/>
 	<meta property="og:description" content="TowelTrack - The future of resort towel management."/>
 	<meta property="og:site_name" content="TowelTrack"/>
-	<meta name="description" content="TowelTrack - The future of hotal, resort and fitness towel management."/>
+	<meta name="description" content="Toweltrack - The future of hotel, resort and fitness towel management."/>
 	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
 
 	<!-- Bootstrap -->
@@ -50,10 +50,8 @@
 	<div class="row">
 		<div class="col-md-8 col-md-push-2 scrollme centered">
 			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
-			<p>Power up Toweltrack's waterproof tablet and your ready to go. Our simple towel tracking
-				software only requires a name, room or phone number, and the number of towels
-				being distributed to the guest. The system keeps an accurate count of the number of
-				towels distributed to the each guest as well as total number of towels distributed each day. 
+			<p>Power up Toweltrack's waterproof tablet and your ready to go. The system keeps an accurate count of the number of
+				towels distributed to and returned each guest as well as total number of towels distributed and returned each day. 
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
