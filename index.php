@@ -34,7 +34,7 @@
 			</div>
 
 			<h1>Reduce towel loss with Toweltrack.</h1>
-			<h3>Distribute and track specific towels to specific guests and reduce towel loss.</h3>
+			<h3>Track each towel distributed and returned by your guests.</h3>
 
 			<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
