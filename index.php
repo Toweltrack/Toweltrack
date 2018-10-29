@@ -29,9 +29,9 @@
 	<div class="row">
 		<div class="col-md-12">
 
-			<div class="logo-center">
+			<!---<div class="logo-center">
 				<img src="assets/images/smallphone.png" />
-			</div>
+			</div>--->
 
 			<h1>Reduce towel loss with Toweltrack.</h1>
 			<h3>Track each and every towel distributed and returned by your guests.</h3>
