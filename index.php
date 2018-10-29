@@ -33,7 +33,7 @@
 				<img src="assets/images/smallphone.png" />
 			</div>
 
-			<h1>Toweltrack</h1>
+			<h1>Reduce towel loss with Toweltrack.</h1>
 			<h3>Distribute and track specific towels to specific guests and reduce towel loss.</h3>
 
 			<div class="towel-image">
