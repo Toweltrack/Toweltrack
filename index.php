@@ -54,6 +54,7 @@
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
+	<hr>
 	<div><h2>Want to see Toweltrack in action?</h2> </br>
 		Call us for more information and a video password at: 1-954-300-4445</div>
 	<div>
