@@ -10,7 +10,7 @@
 	<meta property="og:url" content="http://www.toweltrack.com/"/>
 	<meta property="og:description" content="TowelTrack - The future of resort towel management."/>
 	<meta property="og:site_name" content="TowelTrack"/>
-	<meta name="description" content="Toweltrack - The future of hotel, resort and fitness towel management."/>
+	<meta name="description" content="Replace your towel card system with digital towel management."/>
 	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
 
 	<!-- Bootstrap -->
