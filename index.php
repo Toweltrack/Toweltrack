@@ -68,7 +68,7 @@
 </div>
 </div><!-- end .container -->
 </section>
-<div><h2>corp@toweltrack.com.</h2> </br>
+<div><center><h2>corp@toweltrack.com.</h2></center></br>
 	</div>
 <footer class="footer">
 	<div class="container">
