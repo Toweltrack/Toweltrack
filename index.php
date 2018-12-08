@@ -54,9 +54,7 @@
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
-	<hr>
-	<div><h2>See Toweltrack in action.</h2> </br>
-		</div>
+
 	<div>
 	<div class="row usp-wrap scrollme">
 		<div class="col-md-8 col-md-offset-2">
