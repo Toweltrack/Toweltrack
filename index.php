@@ -33,7 +33,7 @@
 				<img src="assets/images/smallphone.png" />
 			</div>--->
 
-			<h1>Reduce towel loss with Toweltrack.</h1>
+			<h1>Improve the guest experience and reduce towel loss with Toweltrack.</h1>
 			<h3>Track each and every towel distributed and returned by your guests.</h3>
 
 			<div class="towel-image">
@@ -50,19 +50,19 @@
 	<div class="row">
 		<div class="col-md-8 col-md-push-2 scrollme centered">
 			<h2>Toweltrack is a high tech replacement for any towel card or manual system.</h2>
-			<p>Just power up Toweltrack's waterproof tablet and your ready to go. 
+		 
 			</p>
 		</div><!-- end .col-md-8 -->
 	</div><!-- end .row -->
 	<hr>
-	<div><h2>Want to see Toweltrack in action?</h2> </br>
-		Call us for more information and a video password at: 1-954-300-4445</div>
+	<div><h2>See Toweltrack in action.</h2> </br>
+		</div>
 	<div>
 	<div class="row usp-wrap scrollme">
 		<div class="col-md-8 col-md-offset-2">
 
 				<script src="https://fast.wistia.com/embed/medias/mcjtke8rxc.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_mcjtke8rxc seo=false videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div></div><!-- end .responsive-video -->
-	
+
 	</div><!-- end .row -->
  </div>
 </div>
