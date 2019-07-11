@@ -49,7 +49,7 @@
 		</div><!-- end .col-md-12 -->
 	</div><!-- end .row -->
 </div><!-- end .container -->
-<div><center><h2>Call and ask about our mobile tracking and billing solution for waterpark, condo, fitness center and beache towel rentals at +1-954-300-4445</h2></center>
+<div><center><h2>Call and ask about our mobile tracking and billing solution for waterpark, condo, fitness center and beach towel rentals at +1-954-300-4445</h2></center>
 	</div>
 <footer class="footer">
 	<div class="container">
