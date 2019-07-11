@@ -33,8 +33,8 @@
 				<img src="assets/images/smallphone.png" />
 			</div>--->
 
-			<h1>Improve the guest experience and reduce towel loss with Toweltrack.</h1>
-			<h3>Track each and every towel distributed and returned by your guests.</h3>
+			<h1>Track and manage your beach and pool towel inventory.</h1>
+			<h3>Keep you beach and pool deck clean and reduce towel loss. </h3>
 
 			<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
