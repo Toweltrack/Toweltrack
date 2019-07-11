@@ -49,8 +49,7 @@
 		</div><!-- end .col-md-12 -->
 	</div><!-- end .row -->
 </div><!-- end .container -->
-<div><center><h2>corp@toweltrack.com</h2></br>
-	+1-954-300-4445)</center>
+<div><center><h2>+1-954-300-4445</h2></center>
 	</div>
 <footer class="footer">
 	<div class="container">
