@@ -61,11 +61,6 @@
 	</div><!-- end .container -->
 </footer>
 
-
-<!-- Modal -->
-<?php require 'inc/contact_modal.php'; ?>
-
-
 <!-- Scripts -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
