@@ -11,7 +11,7 @@
 	<meta property="og:description" content="TowelTrack - The future of resort towel management."/>
 	<meta property="og:site_name" content="TowelTrack"/>
 	<meta name="description" content="Replace your towel card system with digital towel management."/>
-	<title>TowelTrack | The Future of Hotel, Resort and Fitness Towel Management</title>
+	<title>TowelTrack | The Future of Towel Inventory Management</title>
 
 	<!-- Bootstrap -->
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -50,8 +50,8 @@
 	</div><!-- end .row -->
 </div><!-- end .container -->
 <div><center><h2>Call and ask about our mobile tracking and billing solution for</br> waterpark, condo, fitness center and beach towel rental services at +1-954-300-4445</h2></center>
-	</div>
-	<div>Be up and running in less than an hour. Use your towels or ours. No setup costs. Low monthly fee.</div>
+</br>
+Be up and running in less than an hour. Use your towels or ours. No setup costs. Low monthly fee.</div>
 <footer class="footer">
 	<div class="container">
 		<div class="row">
