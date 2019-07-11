@@ -36,9 +36,15 @@
 			<h1>Track and manage your beach and pool towel inventory.</h1>
 			<h3>Keep you beach and pool deck clean and reduce towel loss. </h3>
 
-			<div class="towel-image">
+			<div class="row usp-wrap scrollme">
+				<div class="col-md-8 col-md-offset-2">
+
+						<script src="https://fast.wistia.com/embed/medias/mcjtke8rxc.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_mcjtke8rxc seo=false videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div></div><!-- end .responsive-video -->
+
+			</div><!-- end .row -->
+			<!---<div class="towel-image">
 				<img src="assets/images/towel-bg.png" class="img-responsive" alt="Toweltrack." />
-			</div><!-- end .towel-image -->
+			</div><---><!-- end .towel-image -->
 
 		</div><!-- end .col-md-12 -->
 	</div><!-- end .row -->
