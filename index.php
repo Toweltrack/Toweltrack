@@ -33,8 +33,8 @@
 				<img src="assets/images/smallphone.png" />
 			</div>--->
 
-			<h1>Track and manage your beach and pool towel inventory.</h1>
-			<h3>Keep you beach and pool deck clean and reduce towel loss. </h3>
+			<h1>Track and manage your towel inventory.</h1>
+			<h3>Keep your pool deck clean and reduce towel loss. </h3>
 
 			<div class="row usp-wrap scrollme">
 				<div class="col-md-8 col-md-offset-2">
