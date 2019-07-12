@@ -8,6 +8,18 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Roboto:500" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <style>
+    .success, .error {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .success {
+      color: green;
+    }
+    .error {
+      color: red;
+    }
+    </style>
 </head>
 <body class="is-boxed has-animations">
     <div class="body-wrap boxed-container">
@@ -144,14 +156,18 @@
                             <h2 class="section-title mt-0">Text Us</h2>
                             <p class="section-paragraph">With clients all over the world, we are available 24 hours a day, 7 days a week and will call you back within 30 minutes.</p>
                         </div>
-                        <div class="footer-form newsletter-form field field-grouped is-revealing">
-                            <div class="control control-expanded">
-                                <input class="input" type="email" name="email" placeholder="Enter your phone number&hellip;">
+                        <div class="success"></div>
+                        <div class="error"></div>
+                        <form action="" name="frm-contact" id="frm-contact" method="post" novalidate="novalidate">
+                            <div class="footer-form newsletter-form field field-grouped is-revealing">
+                                <div class="control control-expanded">
+                                    <input class="input" type="phone_number" name="phone_number" placeholder="Enter your phone number&hellip;">
+                                </div>
+                                <div class="control">
+                                    <button type="button" class="button button-primary button-block button-shadow contact-form-submit">Add</button>
+                                </div>
                             </div>
-                            <div class="control">
-                                <a class="button button-primary button-block button-shadow" href="#">Send Text</a>
-                            </div>
-                        </div>
+                        </form>
                     </div>
                 </div>
             </section>
@@ -199,5 +215,28 @@
     </div>
 
     <script src="dist/js/main.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+      $('.contact-form-submit').click(function(e) {
+        $('.error').html('')
+        $('.success').html('')
+        var formData = $(this).parents('form').serialize()
+        axios.post('http://localhost:8888/toweltrack/toweltrack-api-v2/public/web/send-sms',           formData
+        )
+        .then(function (response) {
+          response = response.data
+          if (response.success === true) {
+            $('.success').html(response.message)
+          } else {
+            let message = JSON.parse(response.message)
+            $('.error').html(message.phone_number[0])
+          }
+        })
+        .catch(function (error) {
+          $('.error').html(error)
+        });
+      });
+    </script>
 </body>
 </html>
