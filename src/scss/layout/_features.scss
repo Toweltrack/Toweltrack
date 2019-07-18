@@ -47,6 +47,11 @@
     justify-content: center;
     background: color(bg, 1);
     border-radius: 50%;
+    
+    img {
+      height: 120px;
+      width: auto;
+    }
 
     &::before {
         content: '';
