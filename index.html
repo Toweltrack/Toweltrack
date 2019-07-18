@@ -43,7 +43,7 @@
 	            <div class="container text-right">
 		            <p>+1 954-300-4445</p>
 	            </div><!-- end .container -->
-	            
+
                 <div class="container-sm">
                     <div class="hero-inner">
                         <center><img src="/logo.png"></center>
@@ -160,8 +160,7 @@
         $('.error').html('')
         $('.success').html('')
         var formData = $(this).parents('form').serialize()
-        axios.post('http://localhost:8888/toweltrack/toweltrack-api-v2/public/web/send-sms',           formData
-        )
+        axios.post('https://api.toweltrack.com/web/send-sms', formData)
         .then(function (response) {
           response = response.data
           if (response.success === true) {
