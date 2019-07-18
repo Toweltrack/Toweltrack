@@ -106,11 +106,12 @@
 
     .footer-links,
     .footer-social-links {
-        justify-content: flex-end;
+      flex-direction: column;
+      align-items: flex-end;
+      justify-content: flex-end;
     }
 
     .footer-links {
-        order: 1;
         margin-bottom: 0;
     }
 }
