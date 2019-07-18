@@ -5,7 +5,8 @@
 }
 
 .hero-paragraph {
-    margin-bottom: 32px;
+  margin-bottom: 32px;
+  margin-top: 32px;
 }
 
 .hero-browser {
@@ -74,7 +75,6 @@
 @include media( '>medium' ) {
 
     .hero {
-        padding-top: 80px;
         padding-bottom: 0;
     }
 
